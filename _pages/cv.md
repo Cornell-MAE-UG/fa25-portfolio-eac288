@@ -1,14 +1,14 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Emilio Ceballos - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Ceballos_Resume_FA25.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [eac288@cornell.edu](mailto:eac288@cornell.edu) | | | **Phone:** +1 (915) 280-5460
 
 ---
 
@@ -19,19 +19,26 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Master of Engineering in Materials Science and Engineering*  
+  GPA: x/4.0   | Graduation: December, 2026
 
-- **[High School Name]**  
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.5/4.0 | Graduation: May, 2026  
+
+- **El Paso Community College**  
+  *Associate of Arts*  
+  GPA 4.0/4.0 | Graduation: May, 2022
+
+- **Cathedral High School (El Paso, TX)**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2022
 
 ---
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** Composites, 3D Printing 
 
 ---
 
@@ -49,10 +56,14 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
+- **Caterpillar Inc. - Corporate Intern (manufacturing)**  
+  May, 2025 - August, 2025  
   - Responsibility 1  
   - Responsibility 2  
+
+- **GlobalFoundries - Advanced Module Engineering Intern**  
+  June, 2024 - August, 2024  
+
 
 ---
 
@@ -63,8 +74,12 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Co-President of the Society of Hispanic Professional Engineers (SHPE) at Cornell  
+- HSF Scholar
+- Former Academic Chair at SHPE 
+- Member of the Mexican Students' Association (MexSA)  
+
+
 
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: MAE 4300 Portfolio Assignment
+description: Class project regarding the ethical analysis of the Boeing 737-MAX accidents.
 image: /assets/images/function-graph.png
 ---
 

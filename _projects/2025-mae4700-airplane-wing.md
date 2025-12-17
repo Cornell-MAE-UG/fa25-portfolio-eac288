@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
+title: MAE 4700 Airplane Wing
+description: 
 technologies: [SolidWorks, Machining]
 image: /assets/images/spaceship-design.jpg
 ---
