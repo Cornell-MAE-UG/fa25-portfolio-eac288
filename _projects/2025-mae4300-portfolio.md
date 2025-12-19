@@ -1,24 +1,18 @@
 ---
 layout: project
 title: MAE 4300 Portfolio Assignment
-description: Class project regarding the ethical analysis of the Boeing 737-MAX accidents.
-image: /assets/images/function-graph.png
+description: Boeing’s Shortcomings During the MCAS Crisis and 737 MAX Groundings
+image: /assets/images/grounded_Boeing_737_Max.jpg
 ---
 
+The Boeing 737 MAX crisis revealed profound shortcomings in Boeing’s engineering culture, organizational decision-making, and interaction with regulators, culminating in two fatal crashes and the worldwide grounding of the aircraft. While the Maneuvering Characteristics Augmentation System (MCAS) was intended as a limited software solution to compensate for aerodynamic changes, its flawed implementation exposed deeper systemic failures that extended far beyond a single design error.
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+At the technical level, Boeing approved a flight-critical system that relied on a single angle-of-attack (AOA) sensor, creating an obvious single point of failure in a safety-critical application. Engineers were aware that erroneous AOA inputs could repeatedly command nose-down trim, yet redundancy was not required and pilot visibility into MCAS behavior was intentionally minimized. As emphasized in the Week 8 analysis, certifying a system with this architecture violated fundamental engineering principles of redundancy and fail-safe design, particularly given the catastrophic consequences of failure. The decision to proceed reflected not a lack of technical competence, but a willingness to accept elevated risk in order to meet schedule and certification goals.
 
+These technical decisions were shaped by organizational pressures that prioritized market competitiveness over safety. Boeing faced intense pressure to counter Airbus’s A320neo without requiring costly pilot retraining. As documented in Week 6, engineering judgment was repeatedly subordinated to business considerations, blurring the line between acceptable risk and ethical compromise. Engineers operated within a corporate culture that discouraged dissent, limited upward communication, and normalized minimal compliance with regulatory requirements rather than proactive safety leadership. Concerns about MCAS authority, pilot training, and system transparency were not elevated effectively, reflecting a breakdown in internal checks meant to protect public safety.
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Regulatory shortcomings compounded these internal failures. Boeing’s increasing reliance on FAA delegation through the Organization Designation Authorization (ODA) allowed company employees to act on behalf of regulators, diluting independent oversight. As discussed in Week 9, this structure created regulatory ambiguity and diffused responsibility, enabling Boeing to certify MCAS under assumptions that minimized its significance to flight safety The FAA’s acceptance of Boeing’s representations, combined with limited international coordination, delayed recognition of systemic risk until after catastrophic loss of life.
 
+Ethically, Boeing’s actions conflicted with core professional obligations outlined by ASME and other engineering codes, particularly the mandate to hold public safety paramount. The failure to disclose MCAS functionality to pilots, the resistance to enhanced training requirements, and the delayed acknowledgment of fault following the crashes undermined trust in both the company and the broader aviation safety system. As the worksheets emphasize, ethical responsibility does not end at regulatory compliance; engineers and executives alike retain a duty to act when systems place lives at risk, regardless of organizational or economic pressure 
 
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-
+In sum, the MCAS crisis was not merely a software failure but the result of interconnected technical, organizational, and regulatory shortcomings. Boeing’s prioritization of competitiveness over transparency, its erosion of safety-centered engineering culture, and its exploitation of regulatory delegation collectively contributed to one of the most consequential engineering ethics failures in modern aviation. The 737 MAX groundings stand as a stark reminder that when safety is treated as a constraint rather than a core value, the consequences can be irreversible.
