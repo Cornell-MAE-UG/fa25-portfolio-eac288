@@ -43,8 +43,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
+- **Airplane Wing Design**:  
+  **  
   - Key Achievement 1  
   - Key Achievement 2  
 
@@ -58,7 +58,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Work Experience
 - **Caterpillar Inc. - Corporate Intern (manufacturing)**  
   May, 2025 - August, 2025  
-  - Responsibility 1  
+  - Led Lean Manufacturing cross-functional effort to reduce scraps for compact track loaders, implementing countermeasures among manufacturing and quality engineers as well as operators  
   - Responsibility 2  
 
 - **GlobalFoundries - Advanced Module Engineering Intern**  
